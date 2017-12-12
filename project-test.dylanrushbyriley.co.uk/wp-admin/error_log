@@ -1,0 +1,2 @@
+[06-Nov-2017 10:50:47 UTC] WordPress database error Unknown column 'wp_' in 'field list' for query SELECT wp_
+[07-Nov-2017 13:58:04 UTC] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/dylanrushbyriley/project-test.dylanrushbyriley.co.uk/wp-content/plugins/easy-watermark/lib/EasyWatermark.php on line 656

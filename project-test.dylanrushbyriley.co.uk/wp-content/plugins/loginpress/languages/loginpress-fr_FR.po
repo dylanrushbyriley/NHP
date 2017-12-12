@@ -1,0 +1,724 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Custom Login Page Brigade\n"
+"POT-Creation-Date: 2017-02-25 12:58+0500\n"
+"PO-Revision-Date: 2017-02-25 12:58+0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.12\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: classes/control-presets.php:73
+msgid "Unlock Premium Feature"
+msgstr ""
+
+#: classes/control-presets.php:77
+msgid "Contact us for Custom Design"
+msgstr ""
+
+#: classes/loginpress-settings-api.php:365
+msgid "Choose File"
+msgstr ""
+
+#: classes/loginpress-settings-api.php:528
+msgid "Getting Started Video - 60 sec"
+msgstr ""
+
+#: classes/loginpress-settings-api.php:536
+msgid "Why Go Pro?"
+msgstr ""
+
+#: classes/loginpress-settings-api.php:539
+msgid "Secure login with Google reCaptcha"
+msgstr ""
+
+#: classes/loginpress-settings-api.php:540
+msgid "20+ Custom Login Themes"
+msgstr ""
+
+#: classes/loginpress-settings-api.php:541
+msgid "Full customizatin with Custom CSS & JS"
+msgstr ""
+
+#: classes/loginpress-settings-api.php:546
+msgid "See What's In The Pro Version"
+msgstr ""
+
+#: classes/loginpress-settings-api.php:555
+msgid "Plugin Support"
+msgstr ""
+
+#: classes/loginpress-settings-api.php:558
+msgid "Got a Question, Idea, Problem or Praise?"
+msgstr ""
+
+#: classes/loginpress-settings-api.php:560
+msgid "Support Request"
+msgstr ""
+
+#: classes/loginpress-setup.php:52
+msgid "Default Settings Restored"
+msgstr ""
+
+#: classes/loginpress-setup.php:59 classes/loginpress-setup.php:67
+msgid "Settings"
+msgstr ""
+
+#: classes/loginpress-setup.php:68
+#, php-format
+msgid "Everything else is customizable through %1$sWordPress Customizer%2$s."
+msgstr ""
+
+#: classes/loginpress-setup.php:74
+msgid "Try Premium Version"
+msgstr ""
+
+#: classes/loginpress-setup.php:93
+msgid "Reset Default Settings"
+msgstr ""
+
+#: classes/loginpress-setup.php:94
+msgid "Remove my custom settings."
+msgstr ""
+
+#: classes/loginpress-setup.php:99
+msgid "Allow Usage Tracking?"
+msgstr ""
+
+#: classes/loginpress-setup.php:100
+msgid ""
+"Allow LoginPress to <a href=\"https://wpbrigade.com/wordpress/plugins/non-"
+"sensitive-diagnostic-tracking/\" target=\"_blank\">non-sensitive diagnostic "
+"tracking</a> and help us make the plugin even better."
+msgstr ""
+
+#: custom.php:89 loginpress.php:154 loginpress.php:156
+msgid "LoginPress"
+msgstr ""
+
+#: custom.php:90
+msgid "Customize Your WordPress Login Page with LoginPress :)"
+msgstr ""
+
+#: custom.php:100
+msgid "Themes"
+msgstr ""
+
+#: custom.php:101
+msgid "Choose Theme"
+msgstr ""
+
+#: custom.php:122 custom.php:164
+msgid "Company"
+msgstr ""
+
+#: custom.php:128 custom.php:194
+msgid "Persona"
+msgstr ""
+
+#: custom.php:134 custom.php:140
+msgid "Corporate"
+msgstr ""
+
+#: custom.php:146
+msgid "Startup"
+msgstr ""
+
+#: custom.php:152
+msgid "Wedding"
+msgstr ""
+
+#: custom.php:158
+msgid "Wedding #2"
+msgstr ""
+
+#: custom.php:170
+msgid "Bikers"
+msgstr ""
+
+#: custom.php:176
+msgid "Fitness"
+msgstr ""
+
+#: custom.php:182
+msgid "Shopping"
+msgstr ""
+
+#: custom.php:188
+msgid "Writers"
+msgstr ""
+
+#: custom.php:200
+msgid "Geek"
+msgstr ""
+
+#: custom.php:206
+msgid "Innovation"
+msgstr ""
+
+#: custom.php:212
+msgid "Photographers"
+msgstr ""
+
+#: custom.php:238
+msgid "Logo"
+msgstr ""
+
+#: custom.php:239
+msgid "Customize Your Logo Section"
+msgstr ""
+
+#: custom.php:251
+msgid "Logo Image:"
+msgstr ""
+
+#: custom.php:260
+msgid "Logo Width:"
+msgstr ""
+
+#: custom.php:261
+msgid "Logo Height:"
+msgstr ""
+
+#: custom.php:262
+msgid "Padding Bottom:"
+msgstr ""
+
+#: custom.php:263
+msgid "Logo URL:"
+msgstr ""
+
+#: custom.php:264
+msgid "Logo Hover Title:"
+msgstr ""
+
+#: custom.php:291
+msgid "Background"
+msgstr "Arrière plan"
+
+#: custom.php:306
+msgid "Display Background Image?"
+msgstr ""
+
+#: custom.php:320
+msgid "Background Color:"
+msgstr ""
+
+#: custom.php:334
+msgid "Background Image:"
+msgstr ""
+
+#: custom.php:349
+msgid "Background Repeat:"
+msgstr "Répétition d’arrière plan"
+
+#: custom.php:372
+msgid "Select Position:"
+msgstr ""
+
+#: custom.php:397
+msgid "Background Image Size: "
+msgstr ""
+
+#: custom.php:415
+msgid "Customize Login Form"
+msgstr ""
+
+#: custom.php:428
+msgid "Form Background Image"
+msgstr "S'il vous plaît remplir le formulaire complet"
+
+#: custom.php:437
+msgid "Form Width:"
+msgstr "Largeur du formulaire"
+
+#: custom.php:438
+msgid "Form Minimum Height:"
+msgstr ""
+
+#: custom.php:439
+msgid "Form Padding:"
+msgstr "Remplissage de la forme :"
+
+#: custom.php:440
+msgid "Border (Example: 2px dotted black):"
+msgstr ""
+
+#: custom.php:441
+msgid "Input Text Field Width:"
+msgstr ""
+
+#: custom.php:442
+msgid "Input Text Field Margin:"
+msgstr ""
+
+#: custom.php:468
+msgid "Form Background Color:"
+msgstr ""
+
+#: custom.php:469
+msgid "Input Field Background Color:"
+msgstr ""
+
+#: custom.php:470
+msgid "Input Field Text Color:"
+msgstr ""
+
+#: custom.php:471
+msgid "Label Color:"
+msgstr ""
+
+#: custom.php:504
+msgid "Customize Forget Form"
+msgstr "S'il vous plaît remplir le formulaire complet"
+
+#: custom.php:521
+msgid "Forget Form Background Image"
+msgstr "Oubliez l'Image de fond de forme"
+
+#: custom.php:535
+msgid "Forget Form Background Color"
+msgstr "Oubliez la couleur d'arrière-plan de forme"
+
+#: custom.php:545
+msgid "Button Beauty"
+msgstr "Beauté de touche"
+
+#: custom.php:554
+msgid "Button Color:"
+msgstr ""
+
+#: custom.php:555
+msgid "Button Border Color:"
+msgstr ""
+
+#: custom.php:556
+msgid "Button Color (Hover):"
+msgstr ""
+
+#: custom.php:557
+msgid "Button Border (Hover):"
+msgstr ""
+
+#: custom.php:558
+msgid "Button Box Shadow:"
+msgstr ""
+
+#: custom.php:559
+msgid "Button Text Color:"
+msgstr ""
+
+#: custom.php:586
+msgid "Error Messages"
+msgstr "Messages d'erreur"
+
+#: custom.php:595
+msgid "Incorrect Username Message:"
+msgstr "Message de nom d'utilisateur incorrect :"
+
+#: custom.php:596
+msgid "Incorrect Password Message:"
+msgstr "Message de mot de passe incorrect :"
+
+#: custom.php:597
+msgid "Empty Username Message:"
+msgstr "Empty Nom d'utilisateur Message:"
+
+#: custom.php:598
+msgid "Empty Password Message:"
+msgstr "Mot de passe vide Message:"
+
+#: custom.php:599
+msgid "Invalid Email Message:"
+msgstr "support marketing: cpc, bannière, e-mail"
+
+#: custom.php:600
+msgid "Empty Email Message:"
+msgstr "Message E-mail :"
+
+#: custom.php:601
+msgid "Forget Password Message:"
+msgstr "Oubliez le mot de passe :"
+
+#: custom.php:628
+msgid "Welcome Messages"
+msgstr "Messages de bienvenue"
+
+#: custom.php:637
+msgid "Welcome Message on Lost Password:"
+msgstr "Message de Bienvenue sur mot de passe perdu :"
+
+#: custom.php:638
+msgid "Welcome Message on Front Page:"
+msgstr "Message de Bienvenue sur la Page de couverture :"
+
+#: custom.php:639
+msgid "Welcome Message on Registration:"
+msgstr "Message de Bienvenue sur inscription :"
+
+#: custom.php:640
+msgid "Logout Message:"
+msgstr "Message de déconnexion :"
+
+#: custom.php:641
+msgid "Message Field Border: ( Example: 1px solid #00a0d2; )"
+msgstr ""
+
+#: custom.php:672
+msgid "Message Field Background Color:"
+msgstr "Message champ couleur de fond :"
+
+#: custom.php:856
+msgid "Form Footer"
+msgstr ""
+
+#: custom.php:870
+msgid "Lost Password Text"
+msgstr "Texte de mot de passe perdu"
+
+#: custom.php:884
+msgid "Footer Text Display:"
+msgstr "Affichage de texte de pied de page :"
+
+#: custom.php:924
+msgid "Footer Text Color:"
+msgstr "Couleur du texte de Pied de page"
+
+#: custom.php:938
+msgid "Footer Text Hover Color:"
+msgstr "Couleur du texte de lien de pied de page au survol"
+
+#: custom.php:952
+msgid "Text Font Size:"
+msgstr "Texte : taille de la police"
+
+#: custom.php:966 custom.php:1079
+msgid "Footer Background Color:"
+msgstr "Couleur d’arrière-plan du Pied de page"
+
+#: custom.php:993
+msgid "\"Back to\" Text Display:"
+msgstr ""
+
+#: custom.php:1013
+msgid "\"Back to\" Text Decoration:"
+msgstr ""
+
+#: custom.php:1037
+msgid "\"Back to\" Text Color:"
+msgstr ""
+
+#: custom.php:1051
+msgid "\"Back to\" Text Hover Color:"
+msgstr ""
+
+#: custom.php:1065
+msgid "\"Back to\" Text Font Size:"
+msgstr ""
+
+#: custom.php:1086
+#, php-format
+msgid "© 2017 %1$s, All Rights Reserved."
+msgstr ""
+
+#: custom.php:1093
+msgid "Copyright Note:"
+msgstr ""
+
+#: custom.php:1106
+msgid "Custom CSS"
+msgstr "CSS Personalisé"
+
+#: custom.php:1119
+msgid "Customize CSS"
+msgstr "Personnaliser le CSS"
+
+#: custom.php:1132
+msgid "Custom JS"
+msgstr "Personnaliser le JavaScript"
+
+#: custom.php:1145
+msgid "Customize JS"
+msgstr "Personnaliser les JS"
+
+#: custom.php:1259
+msgid "Invalid Username"
+msgstr ""
+
+#: custom.php:1261
+msgid "Invalid Password"
+msgstr ""
+
+#: custom.php:1263
+msgid "Empty Username"
+msgstr ""
+
+#: custom.php:1265
+msgid "Empty Password"
+msgstr ""
+
+#: custom.php:1267
+msgid "The email address is incorrect."
+msgstr ""
+
+#: custom.php:1269
+msgid "The email address is empty."
+msgstr ""
+
+#: custom.php:1271
+msgid "Invalid Username or Email."
+msgstr ""
+
+#: include/class-remote-notification-client.php:126
+#: include/class-remote-notification-client.php:137
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+#: include/class-remote-notification-client.php:502
+msgid "Dismiss notification"
+msgstr ""
+
+#: include/class-remote-notification-client.php:701
+#, php-format
+msgid "The server response was invalid (code %s)"
+msgstr ""
+
+#: include/class-remote-notification-client.php:707
+msgid "The server response is empty"
+msgstr ""
+
+#: include/class-remote-notification-client.php:713
+msgid "Cannot decode the response content"
+msgstr ""
+
+#: include/deactivate_modal.php:88
+msgid "Quick feedback"
+msgstr ""
+
+#: include/deactivate_modal.php:91
+msgid "If you have a moment, please let us know why you are deactivating:"
+msgstr ""
+
+#: include/deactivate_modal.php:98
+msgid "I only needed the plugin for a short period"
+msgstr ""
+
+#: include/deactivate_modal.php:107
+msgid "I found a better plugin"
+msgstr ""
+
+#: include/deactivate_modal.php:117
+msgid "The plugin broke my site"
+msgstr ""
+
+#: include/deactivate_modal.php:126
+msgid "The plugin suddenly stopped working"
+msgstr ""
+
+#: include/deactivate_modal.php:135
+msgid "I no longer need the plugin"
+msgstr ""
+
+#: include/deactivate_modal.php:144
+msgid "It's a temporary deactivation. I'm just debugging an issue."
+msgstr ""
+
+#: include/deactivate_modal.php:153
+msgid "Other"
+msgstr ""
+
+#: include/deactivate_modal.php:156
+msgid "Kindly tell us the reason so we can improve."
+msgstr ""
+
+#: include/deactivate_modal.php:161
+msgid "Anonymous feedback"
+msgstr ""
+
+#: include/deactivate_modal.php:165
+msgid "Cancel"
+msgstr ""
+
+#: loginpress.php:158
+msgid "Customizer"
+msgstr ""
+
+#: loginpress.php:182
+msgid "Vote!"
+msgstr ""
+
+#: loginpress.php:411
+msgid "Leave A Review?"
+msgstr ""
+
+#: loginpress.php:412
+msgid ""
+"We hope you've enjoyed using LoginPress! Would you consider leaving us a "
+"review on WordPress.org?"
+msgstr ""
+
+#: loginpress.php:414
+msgid "Sure! I'd love to!"
+msgstr ""
+
+#: loginpress.php:415
+msgid "I've already left a review"
+msgstr ""
+
+#: loginpress.php:416
+msgid "Maybe Later"
+msgstr ""
+
+#: loginpress.php:417
+msgid "Never show again"
+msgstr ""
+
+#: loginpress.php:439
+#, php-format
+msgid "%1$s Settings %2$s | %3$s Customize %4$s"
+msgstr ""
+
+#: loginpress.php:443
+#, php-format
+msgid "%1$s %3$s Upgrade Pro %4$s %2$s"
+msgstr ""
+
+#~ msgid "Login Logo"
+#~ msgstr "Le logo de connexion"
+
+#~ msgid "Logo Width"
+#~ msgstr "Largeur du logo"
+
+#~ msgid "Logo Height"
+#~ msgstr "Hauteur du logo"
+
+#~ msgid "Padding Bottom"
+#~ msgstr "Padding Bas"
+
+#~ msgid "Logo URL"
+#~ msgstr "URL du logo"
+
+#~ msgid "Logo Hover Test"
+#~ msgstr "Test de logo Hover"
+
+#~ msgid "Background Color"
+#~ msgstr "Couleur du fond"
+
+#~ msgid "Image Size: "
+#~ msgstr "Taille de l'image :"
+
+#~ msgid "Customize Form"
+#~ msgstr "Personnaliser le formulaire"
+
+#~ msgid "Form Background Color"
+#~ msgstr "Couleur d'arrière plan du formulaire"
+
+#~ msgid "Form Height:"
+#~ msgstr "produit hauteur par coefficient de forme"
+
+#~ msgid " Border (Example: 2px dotted black) "
+#~ msgstr "Bordure (exemple : 2px pointillés noirs)"
+
+#~ msgid "Input Text Field Width"
+#~ msgstr "Largeur du champ de saisie"
+
+#~ msgid "Input Text Field Margin"
+#~ msgstr "Marge de champ de saisie de texte"
+
+#~ msgid "Input Field Background Color"
+#~ msgstr "Couleur d'arrière-plan de champ de saisie"
+
+#~ msgid "Input Field Text Color"
+#~ msgstr "Couleur du champ de saisie"
+
+#~ msgid "Label Color"
+#~ msgstr "Couleur des étiquettes"
+
+#~ msgid "Button Color"
+#~ msgstr "Couleur du bouton"
+
+#~ msgid "Button Border Color"
+#~ msgstr "Couleur de bordure du bouton"
+
+#~ msgid "Button Color (Hover)"
+#~ msgstr "Couleur du texte du bouton au survol"
+
+#~ msgid "Button Border (Hover)"
+#~ msgstr "Bordure du bouton au survol"
+
+#~ msgid "Button Box Shadow"
+#~ msgstr "Ombre du bouton"
+
+#~ msgid "Button Text Color"
+#~ msgstr "Couleur du texte du bouton"
+
+#~ msgid "Message Field Border: \\n Example: 1px solid #00a0d2;"
+#~ msgstr "Bordure de champ message : \\n exemple : 1px solid #00a0d2 ;"
+
+#~ msgid "Header Message"
+#~ msgstr "Message d'en-tête"
+
+#~ msgid "Header Message:"
+#~ msgstr "Message d'en-tête"
+
+#~ msgid "Header Message Link:"
+#~ msgstr "Message d'en-tête"
+
+#~ msgid "Header Text Color:"
+#~ msgstr "Couleur de texte du Header"
+
+#~ msgid "Header Text Hover Color:"
+#~ msgstr "Texte d'en-tête Hover couleur :"
+
+#~ msgid "Header Background Color:"
+#~ msgstr "Couleur d’arrière plan de l’en-tête"
+
+#~ msgid "Footer"
+#~ msgstr "Pied de pages"
+
+#~ msgid "Login Footer Links"
+#~ msgstr "Liens de pied de page de login"
+
+#~ msgid "Footer Text 1"
+#~ msgstr "Footer | Texte 1"
+
+#~ msgid "Footer Links 1"
+#~ msgstr "Liens du pied de page"
+
+#~ msgid "Footer Text 2"
+#~ msgstr "Footer | Texte 2"
+
+#~ msgid "Footer Links 2"
+#~ msgstr "Liens du pied de page"
+
+#~ msgid "Footer Text 3"
+#~ msgstr "Texte de pied de page 3"
+
+#~ msgid "Footer Links 3"
+#~ msgstr "Liens du pied de page"
+
+#~ msgid "Footer Text 4"
+#~ msgstr "Texte de pied de page 4"
+
+#~ msgid "Footer Links 4"
+#~ msgstr "Liens du pied de page"
+
+#~ msgid "All Rights Reserved by:"
+#~ msgstr "Tous droits réservés"
+
+#~ msgid "Footer Links Background Color:"
+#~ msgstr "Couleur d'arrière-plan des liens du pied de page :"
+
+#~ msgid "Customize Login Page"
+#~ msgstr "Personnaliser la Page de connexion"
